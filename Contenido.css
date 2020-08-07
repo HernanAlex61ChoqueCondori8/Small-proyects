@@ -1,0 +1,9 @@
+.Container_Blocks{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Container_Blocks p{
+    display: block;
+}
