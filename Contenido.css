@@ -1,3 +1,10 @@
 .Container_Blocks{
     color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Container_Blocks p{
+    display: block;
 }
