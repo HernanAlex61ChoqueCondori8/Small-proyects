@@ -4,8 +4,16 @@
     justify-content: center;
     align-items: center;
     font-size: 30px;
+    min-width: 400px;
 }
 
 .Container_Blocks p{
     display: block;
+}
+
+.Container_button{
+    height: 50px;
+    width: 50px;
+    border-radius: 50% 10px;
+    margin-left: 10px;
 }
